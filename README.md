@@ -1,7 +1,7 @@
 # Awful-Interface
 I was creating and experimenting with small screen Operating System interfaces and these are some of them.
 
-<p align="center"> 
+<center>
  
 ![1](./Screen%20Shot%202018-09-17%20at%202.01.50%20AM.png)
 
@@ -9,7 +9,7 @@ I was creating and experimenting with small screen Operating System interfaces a
 
 ![3](./Screen%20Shot%202018-09-17%20at%202.02.14%20AM.png)
 
-</p>
+</center>
 
 
  Originally created in 2014.
